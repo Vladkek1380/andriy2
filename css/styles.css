@@ -1,0 +1,135 @@
+body {font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#ffffff ;
+}
+/* header start------------------------------------------- */
+.header-nav-title { font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+.header-title-span {color: #2e2f42;}
+.header-list {line-height: 1.5;
+letter-spacing: 0.02em;
+font-weight: 500;
+font-size: 16px;
+}
+.header-list-item {color:#2e2f42;}
+.header-list-item:hover{color:#404bbf;}
+.he.header-list-item:focus{color: #404bbf;}
+
+.address {font-style: normal;}
+.header-mail {font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-mail:hover {color: #404bbf }
+.header-mail:focus {color: #404bbf }
+
+.header-number {font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-number:hover {color: #404bbf }
+.header-number:focus {color: #404bbf }
+/* header end------------------------------------------- */
+
+/* hero banner start------------------------------- */
+.hero {background-color: #2e2f42;}
+.hero-title {font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
+.hero-button {background-color:#4d5ae5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
+}
+.hero-button:hover {background-color: #404BBF}
+.hero-button:focus {background-color: #404BBF}
+/* hero banner end------------------------------- */
+
+/* excellence start----------------------------------- */
+.excellence-title {font-weight: 500;
+font-size: 20px;
+ line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.excellence-subtitle-text {font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* excellence end----------------------------------- */
+
+/* tean start------------------------------------ */
+.team {background-color: #F4F4FD}
+
+.team-title {font-size: 36px;
+line-height: 1.11;
+text-align: center;
+ letter-spacing: 0.02em;
+ text-transform: capitalize;
+ color: #2e2f42;
+}
+.team-member {background-color: #FFFFFF;}
+.team-list {font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.team-list-text {font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* tean end------------------------------------ */
+
+/* portfolio start======================================= */
+.portfolio-title {font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+ text-transform: capitalize;
+ color: #2e2f42;
+}
+.portfolio-text {font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-text-item {font-size: 16px;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+ color: #434455;
+}
+/* portfolio end======================================= */
+
+/* footer start-------------------------------------- */
+.footer {background-color: #2e2f42;}
+.footer-title {font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.footer-title-span {color: #f4f4fd}
+.footer-text {line-height: 1.5;
+color: #f4f4fd;
+letter-spacing: 0.02em;
+}
