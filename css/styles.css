@@ -9,6 +9,7 @@ body {font-family: "Roboto", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #4d5ae5;
+    text-transform: uppercase;
 }
 .header-title-span {color: #2e2f42;}
 .header-list {line-height: 1.5;
@@ -18,7 +19,7 @@ font-size: 16px;
 }
 .header-list-item {color:#2e2f42;}
 .header-list-item:hover{color:#404bbf;}
-.he.header-list-item:focus{color: #404bbf;}
+.header-list-item:focus{color: #404bbf;}
 
 .address {font-style: normal;}
 .header-mail {font-size: 16px;
@@ -66,6 +67,11 @@ font-size: 20px;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+.excellence-subtitle {font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
 .excellence-subtitle-text {font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -90,7 +96,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.team-list-text {font-size: 16px;
+.team-text {font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
